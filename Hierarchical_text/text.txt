@@ -1,0 +1,16 @@
+line1
+line2
+{
+par1
+{
+str1
+{
+str2
+}
+}
+par2
+{
+str3
+}
+}
+end
